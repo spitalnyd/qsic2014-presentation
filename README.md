@@ -11,6 +11,10 @@ trouble you to star this repository and then acknowledge it in your own presenta
 more about my research program, then you can checkout my
 [gkapfham/research-bibliography](https://github.com/gkapfham/research-bibliography).
 
+Are you interested in previewing the presentation without having to download the code and resources from the GitHub
+site? Well, you can! Please view [Parameter Tuning for Search-based Test-data Generation Revisited: Support for Previous
+Results](http://cdn.rawgit.com/gkapfham/qsic2014-presentation/master/qsic2014_tuning.html).
+
 #### Installation Instructions
 
 You can type the following command if you want to clone this repository:
